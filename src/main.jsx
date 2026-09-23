@@ -13,7 +13,7 @@ const projects = [
     title: 'Real Estate Website',
     description: 'A full real estate site with a custom CMS. Not sharing the source — it took forever and AI alone couldn\'t save me. Screenshots on GitHub.',
     tags: ['React', 'Vite', 'Supabase', 'CSS'],
-    href: GITHUB,
+    href: 'https://5ef1191c.haven-website-991.pages.dev/',
   },
   {
     number: '02',
