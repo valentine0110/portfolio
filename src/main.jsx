@@ -32,7 +32,7 @@ const projects = [
     description:
       'A website for an event and wedding planning business, built with React, Vite, and Supabase. It also includes a custom CMS to manage the website content and events. .',
     tags: ['React', 'Vite', 'CSS','Supabse','Supabase auth'],
-    href: 'https://event-site-e5c.pages.dev/',
+    href: 'https://github.com/valentine0110/eventplanner-site',
   },
   {
     number: '03',
