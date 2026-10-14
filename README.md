@@ -1,6 +1,6 @@
 # Valentine — Sarcastic AI-Generated Portfolio
 
-A highly sarcastic personal portfolio for **Valentine / Nayan Moni**, built mostly by asking an AI to do all the heavy lifting because he is too lazy to write code himself.
+A highly sarcastic personal portfolio for me , built mostly by asking an AI to do all the heavy lifting because i am too lazy to write code myself.
 
 ## Stack
 - React 18
